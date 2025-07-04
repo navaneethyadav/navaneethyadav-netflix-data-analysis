@@ -64,4 +64,5 @@ This project explores and analyzes the Netflix Movies and TV Shows dataset using
 
 ## 📌 Author
 **Navaneeth Kaku**  
-[LinkedIn](https://www.linkedin.com/in/navaneethkaku) • [GitHub](https://github.com/navaneethyadav)
+[LinkedIn](https://www.linkedin.com/in/navaneethkaku) • https://github.com/navaneethyadav/navaneethyadav-netflix-data-analysis/tree/main
+
